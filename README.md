@@ -3,3 +3,4 @@
 ![Continuous integration](https://github.com/cgrotz/example-worker-js/workflows/Release/badge.svg)
 [![CodeFactor](https://www.codefactor.io/repository/github/cgrotz/example-worker-js/badge)](https://www.codefactor.io/repository/github/cgrotz/example-worker-js)
 
+Running on example-js.cgrotz.workers.dev
