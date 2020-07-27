@@ -1,4 +1,7 @@
 module.exports = {
   mode: 'production',
-  target: 'webworker'
+  target: 'webworker',
+  output: {
+    filename: "worker.js"
+  }
 };
